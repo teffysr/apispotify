@@ -27,7 +27,7 @@ composer install
 cp .env.example .env
 
 # Entornos
-local	http://127.0.0.1:8080/
+local	http://127.0.0.1:8000/api/v1/albums?q=<band-name>
 
 # Tecnologías y herramientas utilizadas
 
